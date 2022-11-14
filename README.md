@@ -1,2 +1,2 @@
-# deteccao_fraudes
-Projeto de estudo para detecção de frauses.
+# Detecção de Fraudes
+Projeto de estudo para detecção de fraudes.
